@@ -104,6 +104,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  activerecord (= 3.2.11)
   coffee-rails (~> 3.2.1)
   jquery-rails
   rails (= 3.2.11)
